@@ -22,5 +22,7 @@ Here are some ideas to get you started:
     Мага:
     Научки:
 
+    Профиль Leetcode, LinkedIn, CodeWars, Keggle, HackTheBox и ссылка на репозиторий 
+
 -->
 
