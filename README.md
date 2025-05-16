@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 План:
     Pet_projects:
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
     Уник (препод):
     Мага:
     Научки:
+
+-->
+
