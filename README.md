@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+План:
+    Pet_projects:
+    Учу сейчас:
+    Уник (препод):
+    Мага:
+    Научки:
